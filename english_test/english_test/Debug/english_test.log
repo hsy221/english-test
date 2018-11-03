@@ -1,0 +1,6 @@
+﻿  english_test.cpp
+c:\users\ryuhe\onedrive\ドキュメント\visual studio 2017\projects\english_test\english_test\english_test.cpp(9): warning C4005: 'max': マクロが再定義されました。
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(193): note: 'max' の以前の定義を確認してください
+c:\users\ryuhe\onedrive\ドキュメント\visual studio 2017\projects\english_test\english_test\english_test.cpp(65): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+c:\users\ryuhe\onedrive\ドキュメント\visual studio 2017\projects\english_test\english_test\english_test.cpp(139): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+  english_test.vcxproj -> C:\Users\ryuhe\OneDrive\ドキュメント\Visual Studio 2017\Projects\english_test\Debug\english_test.exe
